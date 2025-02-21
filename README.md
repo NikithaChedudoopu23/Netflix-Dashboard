@@ -50,9 +50,9 @@ The dataset contains the following columns:
 ---
 
 ## Key Visualizations:
-1. **Movies vs. TV Shows**: Pie chart showing distribution of movies and TV shows on Netflix.
+1. **Movies vs. TV Shows**: Bubble chart showing distribution of movies and TV shows on Netflix.
 2. **Top Genres**: Bar chart displaying popular genres.
-3. **Content by Country**: Map showing the number of titles available in each country.
+3. **Content by Country**: Map showing the number of movies and TV shows available in each country.
 4. **Release Year Trends**: Line chart showing trends over time.
 
 ---
