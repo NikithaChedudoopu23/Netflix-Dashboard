@@ -2,7 +2,7 @@
 
 This repository contains an interactive Tableau dashboard that visualizes data from the Netflix catalog. The dashboard provides insights into trends, genres, ratings, and other key metrics of Netflix's library.
 
-![Netflix Dashboard Screenshot](images/dashboard_screenshot.png)
+![Netflix Dashboard Screenshot](NetflixDashboard.png)
 
 ---
 
